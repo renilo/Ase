@@ -2,5 +2,5 @@
     "build": { "dockerfile": "Dockerfile" },
     "extensions": ["ms-vscode.cpptools"],
     "forwardPorts": [3000],
-    "hostRequirements": {"cpus": 16, "memory": "8gb", "storage": "32gb" }
+    "hostRequirements": {"cpus": 8, "memory": "8gb", "storage": "32gb" }
   }
